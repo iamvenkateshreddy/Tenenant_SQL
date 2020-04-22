@@ -1,0 +1,5 @@
+﻿profile_id,full_name,phone,email,city,house_id,move_in_date,move_out_date,rent,num_referrals,latest_employer,Occupational_category
+13,Mitali gupta,8796751238,mitali.gupta80@gmail.com,Pune,12,25-02-2015,NULL,12000,2,SAP Labs India,Working
+12,Umang parejiya,7896543674,uparejiya@gmail.com,Pune,15,24-02-2015,NULL,11000,1,Centurylink India,Working
+9,Shivshankar das,9801834992,sankar.shiva730@gmail.com,Pune,9,15-10-2015,NULL,7500,1,NULL,Student
+10,Aditi jain,9873123456,aditi.jain@sproxil.com,Pune,10,20-06-2015,NULL,7500,1,huawei Technologies,Working
